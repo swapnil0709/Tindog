@@ -2,7 +2,7 @@
 
 A Website to find the your dog's love of life. Responsive website created using Bootstrap.
 
-Preview of Website: 
+Preview of the Website: 
 
 ![alt text](https://github.com/swapnil0709/Tindog/blob/master/images/Intro.png)
 
